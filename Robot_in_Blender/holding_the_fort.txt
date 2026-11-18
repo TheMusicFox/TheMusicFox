@@ -1,0 +1,1 @@
+This folder only holds folders and without a document inside, it tries to remove itself so the text document is "holding the fort".
